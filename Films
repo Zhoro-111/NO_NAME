@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="********** MOVIES **********" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="MOVIES",********** MOVIES **********
+https://upload.wikimedia.org/wikipedia/commons/5/52/Hymni_i_Flamurit_instrumental.ogg
+#EXTINF:-1 tvg-name="FILM ~ Cheers" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Cheers
+https://samiu.gjirafa.com/api/media/gjvideo/tkzxgg/index1080.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Diamanti" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Diamanti
+https://samiu.gjirafa.com/api/media/gjvideo/yyt0zx/1080/index.m3u8
+#EXTINF:-1 tvg-name="FILM ~ EHO" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ EHO
+https://naimi.gjirafa.com/api/media/gjvideo/yqkyxg/1080/index.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Home Sweet Home" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Home Sweet Home
+https://samiu.gjirafa.com/api/media/gjvideo/y0xyg1/360/index.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Last Match" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Last Match
+https://samiu.gjirafa.com/api/media/gjvideo/yqkzy0/1080/index.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Mali i Harrum" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Mali i Harrum
+https://samiu.gjirafa.com/api/media/gjvideo/yq10tt/1080/index.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Memory" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Memory
+https://naimi.gjirafa.com/api/media/gjvideo/yqkykg/1080/index.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Ne të tre" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Ne të tre
+https://naimi.gjirafa.com/api/media/gjvideo/tkzxqy/index1080.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Një tregim Prishtine" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Një tregim Prishtine
+https://naimi.gjirafa.com/api/media/gjvideo/yqktkg/1080/index.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Nothing to Nobody" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Nothing to Nobody
+https://samiu.gjirafa.com/api/media/gjvideo/yq1q0z/1080/index.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Rojtari i Bjeshkëve" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Rojtari i Bjeshkëve
+https://samiu.gjirafa.com/api/media/gjvideo/yqkzyy/720/index.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Të mjerët" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Të mjerët
+https://naimi.gjirafa.com/api/media/gjvideo/tkkgqy/index1080.m3u8
+#EXTINF:-1 tvg-name="FILM ~ Zonjusha" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Zonjusha
+https://naimi.gjirafa.com/api/media/gjvideo/t0qggz/index1080.m3u8
+
+#EXTINF:-1 tvg-name="********** RADIO **********" tvg-logo="https://i.imgur.com/PthwMHf.jpg" group-title="RADIO",********** RADIO **********
+http://
+#EXTINF:-1 tvg-name="TOP ALBANIA RADIO (AL)" radio="true" tvg-logo="https://i.imgur.com/dxX7iJR.jpg" group-title="RADIO",TOP ALBANIA RADIO (AL)
+https://live.top-media.al/tar
+#EXTINF:-1 tvg-name="TOP GOLD (AL)" radio="true" tvg-logo="https://i.imgur.com/330PpH4.jpg" group-title="RADIO",TOP GOLD (AL)
+https://live.topgold.al/topgold
+#EXTINF:-1 tvg-name="MY MUSIC RADIO (AL)" radio="true" tvg-logo="https://i.imgur.com/c9NwP6c.jpg" group-title="RADIO",MY MUSIC RADIO (AL)
+https://live.top-media.al/mmr
+
+#EXTINF:-1 tvg-name="********** LIVE TV **********" tvg-logo="https://i.imgur.com/meOnF9p.jpg" group-title="TV",********** LIVE TV **********
+https://
+#EXTINF:-1 tvg-name="Universecine (GEO)" tvg-logo="https://i.imgur.com/JYmzHGq.png" group-title="TV",Universecine (GEO)
+https://universcine-samsungfre.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ADN (GEO)" tvg-logo="https://i.imgur.com/YJahdkv.jpg" group-title="TV",ADN (GEO)
+https://adn-samsungfre.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV7 Colmar" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="TV",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/ngrp:tv7_Wifi/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HRT 1" tvg-logo="xxxxxx" group-title="TV",HRT 1
+#EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+
+#EXTINF:-1 tvg-name="HRT 2" tvg-logo="xxxxxx" group-title="TV",HRT 2
+#EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
+
+#EXTINF:-1 tvg-name="HRT 3" tvg-logo="xxxxxx" group-title="TV",HRT 3
+#EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+
+#EXTINF:-1 tvg-name="HRT 4" tvg-logo="xxxxxx" group-title="TV",HRT 4
+#EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+
+#EXTINF:-1 tvg-name="RTBF La Une" tvg-logo="https://i.imgur.com/tUxWgSv.png" group-title="TV",RTBF La Une
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8|User-Agent=stream
+#https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-name="RTBF La Deux" tvg-logo="https://i.imgur.com/u6eEuE4.png" group-title="TV",RTBF La Deux
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8|User-Agent=stream
+#https://rtbf.l3.freecaster.net/live/rtbf/geo/open/012547ec984802a41c6cc2b2e4c81efdf8eff450/ladeux-audio_1=128000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-name="RTBF La Trois" tvg-logo="https://i.imgur.com/LddFWrV.png" group-title="TV",RTBF La Trois
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.m3u8|User-Agent=stream
+#https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
