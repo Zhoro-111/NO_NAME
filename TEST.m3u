@@ -49,15 +49,12 @@ http://tv7.hdr-tv.com/live/tv7/ngrp:tv7_Wifi/playlist.m3u8
 #EXTINF:-1 tvg-name="HRT 1" tvg-logo="xxxxxx" group-title="TV",HRT 1
 #EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-
 #EXTINF:-1 tvg-name="HRT 2" tvg-logo="xxxxxx" group-title="TV",HRT 2
 #EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
-
 #EXTINF:-1 tvg-name="HRT 3" tvg-logo="xxxxxx" group-title="TV",HRT 3
 #EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-
 #EXTINF:-1 tvg-name="HRT 4" tvg-logo="xxxxxx" group-title="TV",HRT 4
 #EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
@@ -65,11 +62,9 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 tvg-name="RTBF La Une" tvg-logo="https://i.imgur.com/tUxWgSv.png" group-title="TV",RTBF La Une
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8|User-Agent=stream
 #https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
-
 #EXTINF:-1 tvg-name="RTBF La Deux" tvg-logo="https://i.imgur.com/u6eEuE4.png" group-title="TV",RTBF La Deux
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8|User-Agent=stream
 #https://rtbf.l3.freecaster.net/live/rtbf/geo/open/012547ec984802a41c6cc2b2e4c81efdf8eff450/ladeux-audio_1=128000-video=2000000.m3u8
-
 #EXTINF:-1 tvg-name="RTBF La Trois" tvg-logo="https://i.imgur.com/LddFWrV.png" group-title="TV",RTBF La Trois
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.m3u8|User-Agent=stream
 #https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
