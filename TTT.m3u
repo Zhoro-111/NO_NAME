@@ -28,7 +28,7 @@ https://naimi.gjirafa.com/api/media/gjvideo/tkkgqy/index1080.m3u8
 #EXTINF:-1 tvg-name="FILM ~ Zonjusha" tvg-logo="https://i.imgur.com/lx4S6xn.png" group-title="MOVIES",FILM ~ Zonjusha
 https://naimi.gjirafa.com/api/media/gjvideo/t0qggz/index1080.m3u8
 
-#EXTINF:-1 tvg-name="********** RADIO **********" tvg-logo="https://i.imgur.com/PthwMHf.jpg" group-title="RADIO",********** RADIO **********
+#EXTINF:-1 tvg-name="********** RADIO **********" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/PthwMHf.jpg",********** RADIO **********
 http://
 #EXTINF:-1 tvg-name="TOP ALBANIA RADIO (AL)" radio="true" tvg-logo="https://i.imgur.com/dxX7iJR.jpg" group-title="RADIO",TOP ALBANIA RADIO (AL)
 https://live.top-media.al/tar
